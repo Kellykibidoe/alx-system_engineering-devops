@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod ug-rwx:o+rwe betty
+#!/bin/bas007
