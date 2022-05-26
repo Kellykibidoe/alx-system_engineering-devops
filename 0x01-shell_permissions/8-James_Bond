@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+x:ug-x betty
+chmod ug-rwx:o+rwe betty
