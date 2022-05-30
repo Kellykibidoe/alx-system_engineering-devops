@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > "Hello, World"
+tail -n 1 "Hello, World"
